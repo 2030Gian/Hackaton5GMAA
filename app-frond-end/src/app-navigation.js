@@ -19,7 +19,14 @@ export const navigation = [
       {
         text: 'Groups',
         path: '/groups'
+      },
+
+      {
+        text: 'Persons',
+        path: '/persons'
       }
+
+
     ]
   }
   ];
